@@ -3,4 +3,4 @@ runs:
   steps:
     - name: Dummy
       shell: bash
-      run: echo dummy
+      run: echo pwned
